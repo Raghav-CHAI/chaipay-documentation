@@ -13,13 +13,13 @@ order: 2
 
 Create a merchant account on ChaiPay merchant admin portal and get the ChaiPay key
 
-- [Demo video - Merchant onboarding](https://screencast-o-matic.com/watch/crfhiOVVWpA)
-{% include videoPlayer.html link="https://screencast-o-matic.com/watch/crfhiOVVWpA" %}
+- [Demo video - Merchant onboarding](https://youtu.be/sP4y5f8VHx4)
+{% include videoPlayer.html link="https://www.youtube.com/embed/sP4y5f8VHx4" %}
 
 ### Step 2 - Enable payment channels
 
 Add the payment channels (e.g. ZaloPay) credentials in the merchant admin portal under Payments Integration section.
 
-- [Demo video - Add credentials](https://screencast-o-matic.com/watch/crfhigVVWCW)
-{% include videoPlayer.html link="https://screencast-o-matic.com/watch/crfhigVVWCW" %}
+- [Demo video - Add credentials](https://youtu.be/qcSZMAZ-hYA)
+{% include videoPlayer.html link="https://www.youtube.com/embed/qcSZMAZ-hYA" %}
 ---
