@@ -68,7 +68,7 @@ plugins:
 aux_links:
   "Chaipay.io": "https://www.chaipay.io/"
   "Admin Portal": "https://iamport-admin-vuejs-main.herokuapp.com/"
-  "About us": "/chaipay-documentation/about"
+  "About us": "/about"
 
 # Uncomment to test fixes for list alignment:
 # color_scheme: fix-lists
