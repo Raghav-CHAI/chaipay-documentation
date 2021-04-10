@@ -10,9 +10,9 @@ order: 7
 ---
 
 ### Available payment methods:
-1. Local ATM/Debit Cards
+1. Local ATM/Debit Cards and Internet Banking
 2. Zalopay eWallet
-3. Credit Cards
+3. Credit Cards ( Visa/Master/JCB)
 
 ### Credentials:
 
@@ -27,8 +27,8 @@ order: 7
 | Type |  Card number   |   Name   | Valid through |   CVV   | Status  |
 | ----|------------ | -------- | ------------- |-------- | ------- |
 | Visa | 4111111111111111 | NGUYEN VAN A     | 01/22 |   123    | Successful|
-| Bank | 9704540000000013 | NGUYEN VAN A     | 10/18  |    -    | Failed|
-| Bank | 9704541000000011 | NGUYEN VAN A     | 10/18  |    -    | Failed|
+| ATM Card | 9704540000000062 | NGUYEN VAN A     | 10/18  |    -    | Success|
+| ATM Card | 9704541000000011 | NGUYEN VAN A     | 10/18  |    -    | Failed|
 
 ### Reference links:
 

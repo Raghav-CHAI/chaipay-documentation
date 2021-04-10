@@ -6,12 +6,12 @@ nav_order: 8
 order: 8
 ---
 
-# VnPay Integration
----
+# VNPAY Integration
+VNPAY offers QR payments, ATM and Credit Card (Visa/Master) payments. Follow this guide to integrate VNPAY acceptance on your mobile app or website
 
 ### Available payment methods:
-1. Cards
-2. Wallets
+1. ATM Card and Bank account
+2. VNPAY eWallet
 
 ### Credentials:
 
@@ -24,7 +24,7 @@ order: 8
 
 | Type |  Card number   |   Name   | Valid through |   CVV   | Status  |
 | ----|------------ | -------- | ------------- |-------- | ------- |
-| Visa | 9704198526191432198 | NGUYEN VAN A     | 07/15 |   123    | Successful|
+| ATM Card| 9704198526191432198 | NGUYEN VAN A     | 07/15 |   123    | Successful|
 
 - OTP - 123456
 - Password - 1234

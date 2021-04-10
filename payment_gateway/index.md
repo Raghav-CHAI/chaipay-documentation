@@ -7,12 +7,13 @@ has_children: true
 has_toc: false
 ---
 
-# Supported payment gateways
+# Supported Payment Gateways & eWallets
 ---
 
 ### This section provides the following details about supported payment gateways:
 
-1. Payment channel credentials.
-2. Testing cards data.
+1. Payment Methods Supported
+2. API Credentials
+3. Integration testing and validation information
 
 ---

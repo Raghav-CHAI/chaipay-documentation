@@ -10,8 +10,7 @@ order: 10
 ---
 
 ### Available payment methods:
-1. Cards
-2. Bank transfers
+1. Credit/Debit Cards (Visa, Mastercard, AMEX)
 
 ### Credentials:
 
@@ -24,9 +23,9 @@ order: 10
 
 | Type |  Card number   |   Name   | Valid through |   CVV   | Status  |
 | ----|------------ | -------- | ------------- |-------- | ------- |
-| Visa | 5111111111111118 | NGUYEN VAN A     | 05/21 |   100    | Successful|
-| Bank | 5123450000000008 | NGUYEN VAN A     | 05/21  |   100    | Successful|
-| Bank | 2223000000000023 | NGUYEN VAN A     | 05/21  |   102    | Failed|
+| Mastercard | 5111111111111118 | NGUYEN VAN A     | 05/21 |   100    | Successful|
+| Mastercard | 5123450000000008 | NGUYEN VAN A     | 05/21  |   100    | Successful|
+| Mastercard | 2223000000000023 | NGUYEN VAN A     | 05/21  |   102    | Failed|
 
 ### Reference links:
 

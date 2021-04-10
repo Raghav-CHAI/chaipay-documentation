@@ -10,7 +10,8 @@ order: 9
 ---
 
 ### Available payment methods:
-1. Cards
+1. ATM Cards
+2. International Credit/Debit Cards (Visa,Master, AMEX, JCB)
 
 ### Credentials:
 

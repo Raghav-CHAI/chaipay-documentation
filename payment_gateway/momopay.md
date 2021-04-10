@@ -1,12 +1,12 @@
 ---
 layout: default
-title: MoMoPay
+title: MoMo Pay
 parent: Payment Gateways & eWallets
 nav_order: 6
 order: 6
 ---
 
-# MoMoPay Integration
+# MoMo Pay Integration
 MoMo is the top local eWallet in Vietnam. Follow this guide to integrate and offer MoMo pay acceptance on your mobile app or website
 
 ---
