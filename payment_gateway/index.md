@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Payment Gateways
+title: Payment Gateways & eWallets
 nav_order: 5
 order: 5
 has_children: true

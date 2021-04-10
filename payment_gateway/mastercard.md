@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Mastercard
-parent: Payment Gateways
+title: MPGS (Mastercard)
+parent: Payment Gateways & eWallets
 nav_order: 10
 order: 10
 ---

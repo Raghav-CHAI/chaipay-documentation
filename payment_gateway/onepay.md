@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OnePay
-parent: Payment Gateways
+parent: Payment Gateways & eWallets
 nav_order: 9
 order: 9
 ---

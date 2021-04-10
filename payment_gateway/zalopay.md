@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ZaloPay
-parent: Payment Gateways
+parent: Payment Gateways & eWallets
 nav_order: 7
 order: 7
 ---
@@ -10,8 +10,9 @@ order: 7
 ---
 
 ### Available payment methods:
-1. Cards
-2. Wallets
+1. Local ATM/Debit Cards
+2. Zalopay eWallet
+3. Credit Cards
 
 ### Credentials:
 

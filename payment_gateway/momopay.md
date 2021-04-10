@@ -1,16 +1,18 @@
 ---
 layout: default
-title: MomoPay
-parent: Payment Gateways
+title: MoMoPay
+parent: Payment Gateways & eWallets
 nav_order: 6
 order: 6
 ---
 
-# MomoPay Integration
+# MoMoPay Integration
+MoMo is the top local eWallet in Vietnam. Follow this guide to integrate and offer MoMo pay acceptance on your mobile app or website
+
 ---
 
 ### Available payment methods:
-1. Wallets
+1. MoMo eWallet
 
 ### Credentials:
 
@@ -22,7 +24,7 @@ order: 6
 
 ### Reference links:
 
-- [Momopay integration](https://developers.momo.vn/#/docs/en/testing_information).
-- [Momopay testing data](https://developers.momo.vn/#/docs/en/testing_information).
+- [MoMopay Integration](https://developers.momo.vn/#/docs/en/testing_information).
+- [MoMopay Testing Data](https://developers.momo.vn/#/docs/en/testing_information).
 
 ---

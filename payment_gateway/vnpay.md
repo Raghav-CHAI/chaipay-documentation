@@ -1,7 +1,7 @@
 ---
 layout: default
-title: VnPay
-parent: Payment Gateways
+title: VNPay
+parent: Payment Gateways & eWallets
 nav_order: 8
 order: 8
 ---
