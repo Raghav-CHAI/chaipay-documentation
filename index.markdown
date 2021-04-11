@@ -27,3 +27,5 @@ This documentation will guide you to connect to CHAIPay API and start accepting 
 
 
 Don't hesitate to share your opinion about your ["getting started"](https://www.chaipay.io/) experience!
+
+---
