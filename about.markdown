@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+CHAIPay is a SaaS platform enabling payments. Using CHAIPay’s unified API, merchants are able to instantaneously connect and manage multiple payment gateways, eWallets and other local payment options for processing customer payments efficiently.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+CHAIPay also offers powerful analytics through it’s unified reporting dashboard for instant payment reports, reconciliation and customer insights across all payment methods.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+CHAIPay is a product from CHAI Corporation.
 
+CHAI Corporation actively serves 2000+ clients in Korea to process 60 million transactions annually.
+Now we are bringing this expertise into Vietnam and SouthEast Asia.
 
-[jekyll-organization]: https://github.com/jekyll
+We have successfully integrated with the major local eWallets and PGs in Vietnam and are ready to help merchants accept digital payments within a few hours.
+
+Please refer to the website for more details
