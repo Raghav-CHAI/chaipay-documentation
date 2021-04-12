@@ -20,7 +20,7 @@ This documentation will guide you to connect to CHAIPay API and start accepting 
 2. Multiple payment options with a single integration
 
 
-3. Payment reconciliation b/w internal systems and reports from payment providers
+3. Payment reconciliation between merchants internal accounting/reporting systems and reports from payment providers
 
 
 4. Payment Analytics via a single dashboard
