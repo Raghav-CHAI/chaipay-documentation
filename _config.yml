@@ -22,7 +22,7 @@ title: CHAIPay DOCS
 email: contact@chaipay.io
 description: >- # this means to ignore newlines until "baseurl:"
   Fastest way to start digital payments. CHAI is building a new infrastructure of digital payments with a wide range of payment products.
-baseurl: "/chaipay-documentation" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
@@ -68,7 +68,7 @@ plugins:
 aux_links:
   "Chaipay.io": "https://www.chaipay.io/"
   "Merchant Portal": "https://test1.admin.chaipay.io/"
-  "About us": "/chaipay-documentation/about"
+  "About us": "/about"
 
 # Uncomment to test fixes for list alignment:
 # color_scheme: fix-lists
