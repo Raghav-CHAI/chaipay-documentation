@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 0
 ---
 
-# ChaiPay - fastest way to start digital payments.
+# CHAIPay - fastest way to start digital payments.
 
 ---
 
