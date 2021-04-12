@@ -6,7 +6,7 @@ nav_order: 3
 order: 3
 ---
 
-# Integrate JS SDK
+# Integrate Javascript SDK
 ---
 
 - Embed the following javascript in the checkout page.
